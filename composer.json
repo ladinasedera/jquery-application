@@ -1,0 +1,19 @@
+{
+    "name": "ladina/jquery-application",
+    "description": "Simple jQuery Application, Easy to use",
+    "type": "tools",
+    "keywords": [
+        "tools jquery",
+        "application",
+        "spa javascript"
+    ],
+    "license": "MIT",
+    "minimum-stability": "dev",
+    "prefer-stable": true,
+    "authors": [
+        {
+            "name": "Ladina Sedera",
+            "email": "ladina.sedera@gmail.com"
+        }
+    ]  
+}
